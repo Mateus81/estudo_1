@@ -17,3 +17,7 @@ Repositório para **estudo**
 ###### Branches:
 
 _6_
+
+#### Imagem local:
+
+![logo do vscode](img/logo.vscode.png)
