@@ -7,6 +7,10 @@ Repositório para **estudo**
 * CSS
 * Markdown
 
+### Tags:
+1. v1.0
+2. 2.0
+
 ## Arquivos:
 *HTML, txt, __zip__, css*
 
