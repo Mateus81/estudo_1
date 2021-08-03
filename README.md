@@ -3,7 +3,7 @@
 Repositório para **estudo**
 
 ## Arquivos:
-HTML, txt, zip, css
+*HTML, txt, __zip__, css*
 
 ###### Branches:
 
