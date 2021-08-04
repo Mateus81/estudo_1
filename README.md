@@ -25,3 +25,11 @@ _6_
 ## Link:
 
 [Github](https://github.com/Mateus81/estudo_1)
+
+### Código teste de soma
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
