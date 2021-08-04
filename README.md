@@ -33,3 +33,7 @@ function soma(a, b) {
     return a + b;
 }
 ```
+
+### Lista de tarefas
+-[x] Commits revisados
+-[x] arquivos ignorados
